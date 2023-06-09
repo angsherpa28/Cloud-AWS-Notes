@@ -22,7 +22,7 @@
 
 
 ## **Sudo Systemctl Status Jenkins**
-![alt text](sys.png)
+![alt text](sys.PNG)
 
 ## **Retreive Password**
 
